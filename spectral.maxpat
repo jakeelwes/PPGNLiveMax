@@ -91,7 +91,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 281.5, 292.0, 67.0, 22.0 ],
+					"patching_rect" : [ 275.0, 323.0, 67.0, 22.0 ],
 					"text" : "poke~ bird"
 				}
 
