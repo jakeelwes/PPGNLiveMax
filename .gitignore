@@ -1,2 +1,4 @@
 *.pkl
 *.jpg
+.DS_Store
+
